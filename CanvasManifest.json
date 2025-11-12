@@ -1,0 +1,23 @@
+{
+  "FormatVersion": "0.24",
+  "Properties": {
+    "Author": "",
+    "Name": "PowerApp-Form",
+    "Id": "00000000-0000-0000-0000-000000000001",
+    "FileID": "00000000-0000-0000-0000-000000000001",
+    "EmbeddingHosts": [],
+    "InstrumentationKey": "",
+    "ManualOfflineProfileId": ""
+  },
+  "Header": {
+    "DocVersion": "1.333",
+    "MinVersionToLoad": "1.331",
+    "MSAppStructureVersion": "2.0"
+  },
+  "ScreenOrder": [
+    "Screen1"
+  ],
+  "PublishOrderIndices": {
+    "Screen1": 0
+  }
+}
